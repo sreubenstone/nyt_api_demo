@@ -1,0 +1,4 @@
+# To ignore
+__pycache__/
+.env
+env
