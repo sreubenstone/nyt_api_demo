@@ -59,7 +59,3 @@ project/
 
 - GPT-o3 mini-high was used to create documentation and README file
 - GPT-o3 mini-high was used to write \_flatten_dict method
-
-## License
-
-This project is provided for demonstration purposes and can be freely used and modified.
