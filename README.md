@@ -31,8 +31,11 @@ This project is a simple Python-based loader that connects to the New York Times
 
 ## Setup
 
-1. Create a .env file in the root directory with the following content: ```  
-   NYTIMES_API_KEY=your_actual_api_key Replace your_actual_api_key with your actual New York Times API key.
+1. Create a .env file in the root directory with the following content:
+   ```
+   NYTIMES_API_KEY=your_actual_api_key
+   ```
+   Replace your_actual_api_key with your actual New York Times API key.
 
 ## Usage
 
